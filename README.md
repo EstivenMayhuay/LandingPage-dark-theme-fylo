@@ -15,4 +15,3 @@ Esta es un challenges de **Frotendmentor.io** que consta de realizar una landing
 ## Views
 
 ***@estivenMayhuay***
-# LadingPage-dark-theme-fylo
