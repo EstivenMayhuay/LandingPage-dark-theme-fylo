@@ -4,8 +4,8 @@
 
 Esta es un challenges de **Frotendmentor.io** que consta de realizar una landing page con un **theme dark**.
 
-- Link Netlify: [**https://musing-beaver-4dc400.netlify.app/**](https://musing-beaver-4dc400.netlify.app/)
-- Link GitHub: [**https://estivenm99.github.io/Fylo-landingPage-dark-theme/**](https://estivenm99.github.io/Fylo-landingPage-dark-theme/)
+- Link Netlify: [**https://frosty-kilby-09da1a.netlify.app/**](https://frosty-kilby-09da1a.netlify.app/)
+- Link GitHub: [**https://estivenm99.github.io/LadingPage-dark-theme-fylo/**](https://estivenm99.github.io/LadingPage-dark-theme-fylo/)
 
 ## Tecnologías Usadas
 
