@@ -70,6 +70,13 @@ body {
 
 .marginAuto { margin-left: auto; margin-right: auto; }
 
+.header.fixedHeader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 50;
+}
+
 /* header */
 .header {
   /*outline: 2px solid red;*/
@@ -131,7 +138,7 @@ body {
 
 /* Presentación */
 .presentation, .features, .workflow, .team {
-  padding: 24px 0 0 0;
+  padding: 69px 0 0 0;
 }
 
 .mainImg, .workflow__img {
